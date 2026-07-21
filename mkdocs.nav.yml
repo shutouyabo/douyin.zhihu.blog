@@ -6,6 +6,12 @@ nav:
           - lishi/xianpandong/index.md
           - 2021:
               - lishi/xianpandong/2021/唐朝：一个让爱做主的时代.md
+      - 小璐歌:
+          - lishi/xiaoluge/index.md
+          - 2022:
+              - lishi/xiaoluge/2022/唐朝：一个让爱做主的时代.md
+
+
   - 2:
       - 嵌入式开发:
           - Arduino & 杂项:
