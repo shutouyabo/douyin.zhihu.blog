@@ -2,9 +2,9 @@ nav:
   - Home: index.md
   - 历史播主:
       - 西安潘鸫:
-          - 视频/前言.md
+          - lishi/xianpandong/前言.md
           - 2021:
-              - 视频/2021/唐朝：一个让爱做主的时代.md
+              - lishi/xianpandong/2021/唐朝：一个让爱做主的时代.md
   - 2:
       - 嵌入式开发:
           - Arduino & 杂项:
