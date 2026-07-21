@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>work wiki</title>
+    <description>学习。</description>
+    <link>https://sc.zhihu.blog/</link>
+    <atom:link href="https://sc.zhihu.blog/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    <docs>https://github.com/shutouyabo/cs-nj-wiki</docs>
+    <language>zh</language>
+
+    
+    <pubDate>Tue, 21 Jul 2026 05:55:27 -0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:55:27 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.19.0</generator>
+
+    
+    
+    <image>
+      <url>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png</url>
+      <title>work wiki</title>
+      <link>https://sc.zhihu.blog/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Home</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;_1&#34;&gt;杂志大全&lt;/h1&gt;
+&lt;!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~--&gt;
+
+&lt;!--
+[![badge](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_MkDocs/Production?label=Build&amp;style=flat-square){ loading=lazy }](https://vercel.com/powerlin/wiki-mkdocs/deployments)
+--&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/linyuxuanlin/Wiki_mkdocs/commits/main&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/github/last-commit/linyuxuanlin/Wiki_MkDocs?color=FCD734&amp;amp;label=Last%20commit&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://wiki-power.com/Contact-and-Subscribe/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/Contact%20%26%20Subscribe-me-34ABE0?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+[![badge](https://img.shields.io/badge/dynamic/json?label=GitHub&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&amp;labelColor=555555&amp;color=282c34&amp;longCache=true?&amp;style=for-the-badge){ loading=lazy }](https://github.com/linyuxuanlin)
+[![badge](https://img.shields.io/badge/dynamic/json?color=282c34&amp;labelColor=0084ff&amp;label=ZHIHU&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dlinyuxuanlin&amp;longCache=true?&amp;style=for-the-badge){ loading=lazy }](https://www.zhihu.com/people/linyuxuanlin)
+[![badge](https://img.shields.io/badge/dynamic/json?label=SSPAI&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&amp;color=282c34&amp;labelColor=d71a1b&amp;longCache=true?&amp;style=for-the-badge){ loading=lazy }](https://sspai.com/u/power/)
+[![badge](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&amp;label=BILIBILI&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&amp;color=282c34&amp;longCache=true?&amp;style=for-the-badge){ loading=lazy }](https://space.bilibili.com/349536948)
+--&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;博览万书，融会贯通。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hi there~ 欢迎来到我的杂志大全知识库。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki-power.com/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/知识库-Wiki-34ABE0?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://nav.wiki-power.com/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://digest.wiki-power.com/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/书摘-Digest-green?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://memos.wiki-power.com/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/只言片语-Memos-orange?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://works.wiki-power.com/&#34;&gt;&lt;img alt=&#34;badge&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&amp;amp;style=flat-square&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为了避免遗忘、便于分享，我在这里收录知识。
+请随意浏览～&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;md-button&#34; href=&#34;https://wiki-power.com/信号完整性-基础概念&#34;&gt;硬件 &amp;amp; 半导体&lt;/a&gt;
+&lt;a class=&#34;md-button&#34; href=&#34;https://wiki-power.com/HAL库开发笔记-串口通信&#34;&gt;嵌入式 &amp;amp; 软件开发&lt;/a&gt;
+&lt;a class=&#34;md-button&#34; href=&#34;https://wiki-power.com/搭建属于自己的HomeLab&#34;&gt;生活 &amp;amp; 折腾&lt;/a&gt;&lt;/p&gt;</description>
+      <link>https://sc.zhihu.blog/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>X86 平台的硬件测试 🚧</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;x86&#34;&gt;X86 平台的硬件测试 🚧&lt;/h1&gt;
+&lt;h2 id=&#34;_1&#34;&gt;性能测试&lt;/h2&gt;
+&lt;h3 id=&#34;sd&#34;&gt;SD 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：SD 座子接 TF 卡，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T6（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;emmc&#34;&gt;EMMC 读写速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：使用 CrystalDiskMark 软件测试 SEQ1M-Q8T6（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;sata&#34;&gt;SATA 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：SATA 接 SATA SSD，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T5（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;m2-m-key-nvme&#34;&gt;M.2 M key NVME 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：M.2 M key 接 NVME SSD，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T4（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;m2-b-key-usb20&#34;&gt;M.2 B key USB2.0 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：M.2 B key 接 B key 测试模块，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T3（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;m2-b-key-sata&#34;&gt;M.2 B key SATA 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：M.2 B key 接 SATA SSD，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T2（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;usb-type-c&#34;&gt;USB TYPE-C 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：USB TYPE-C 接高速 U 盘，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T1（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;usb30&#34;&gt;USB3.0 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：USB3.0 接高速 U 盘，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T1（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;usb20&#34;&gt;USB2.0 接口速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：USB2.0 接高速 U 盘，使用 CrystalDiskMark 软件测试 SEQ1M-Q8T1（其他参数默认）。&lt;/p&gt;
+&lt;h3 id=&#34;_2&#34;&gt;以太网通信速率&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：RJ45 通过网线直连一台主机，使用 Iperf3 软件测试。主机使用 &lt;code&gt;iperf3 -s&lt;/code&gt; 命令；X86 使用 &lt;code&gt;iperf3 -c &amp;lt;主机 IP&amp;gt;&lt;/code&gt; 命令。&lt;/p&gt;
+&lt;h2 id=&#34;_3&#34;&gt;功能测试&lt;/h2&gt;
+&lt;h3 id=&#34;_4&#34;&gt;电源恢复模式&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内将 &lt;code&gt;Chipset&lt;/code&gt; - &lt;code&gt;Restore on AC Power Loss&lt;/code&gt; 设置为 &lt;code&gt;Last State&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：断电后再来电时，恢复到断电前电脑的状态。断电前如果电脑是处于开机状态，那么来电后就会自动开机；断电前是处于关机状态，那么来电后电脑不会自动开机。&lt;/p&gt;
+&lt;h3 id=&#34;_5&#34;&gt;启动选项优先级&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内将 &lt;code&gt;Boot&lt;/code&gt; - &lt;code&gt;Boot Option Priorities&lt;/code&gt; 切换不同启动磁盘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：可以修改保存启动项，并从选择的启动项启动。&lt;/p&gt;
+&lt;h3 id=&#34;_6&#34;&gt;安全启动 🚧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：切换至 BIOS，开启安全启动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：开启后无法从非认证的设备启动。&lt;/p&gt;
+&lt;h3 id=&#34;35mm&#34;&gt;3.5mm 耳机孔与板载麦克风&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：使用网页在线工具 &lt;a href=&#34;https://mymictest.com/zh&#34;&gt;https://mymictest.com/zh&lt;/a&gt; 测试录音与播音。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：能正常录音与播音。&lt;/p&gt;
+&lt;h3 id=&#34;wi-fi&#34;&gt;Wi-Fi 支持&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内将 &lt;code&gt;Chipset&lt;/code&gt; - &lt;code&gt;WIFI Support&lt;/code&gt; 设置为 &lt;code&gt;Disable&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：关闭后，在系统内无法启用 Wi-Fi 功能。&lt;/p&gt;
+&lt;h3 id=&#34;lan&#34;&gt;板载 LAN&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内将 &lt;code&gt;Chipset&lt;/code&gt; - &lt;code&gt;OnBoard Lan&lt;/code&gt; 设置为 &lt;code&gt;Disable&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：关闭后，在系统内无法启用有线网。&lt;/p&gt;
+&lt;h3 id=&#34;lan_1&#34;&gt;LAN 唤醒 🚧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：切换至 BIOS，关闭 Wake on LAN&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：关闭后，网络灯关闭，开启后能被网络唤醒&lt;/p&gt;
+&lt;h3 id=&#34;cpu&#34;&gt;CPU 信息识别&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：切换至 BIOS，在首页检查 CPU 型号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：CPU 型号正常识别。&lt;/p&gt;
+&lt;h3 id=&#34;pxe&#34;&gt;PXE 启动 🚧&lt;/h3&gt;
+&lt;p&gt;🚧&lt;/p&gt;
+&lt;h3 id=&#34;emmc_1&#34;&gt;eMMC 支持&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内将 &lt;code&gt;Chipset&lt;/code&gt; - &lt;code&gt;eMMC Support&lt;/code&gt; 设置为 &lt;code&gt;Disable&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：关闭后，无法检测到 eMMC 磁盘。&lt;/p&gt;
+&lt;h3 id=&#34;_7&#34;&gt;风扇转速&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：在 BIOS 内查看 &lt;code&gt;Advanced&lt;/code&gt; - &lt;code&gt;H/W Monitor&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：可正常显示实时风扇转速。&lt;/p&gt;
+&lt;h3 id=&#34;rtc&#34;&gt;RTC 唤醒 🚧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：切换至 BIOS，启用 RTC 唤醒，设置唤醒时间&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：设置时间能正常唤醒&lt;/p&gt;
+&lt;h3 id=&#34;usb-type-c_1&#34;&gt;USB TYPE-C 视频输出&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：USB TYPE-C 接 4K/60Hz（可依据配置调整）显示器，观察显示器显示情况。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：能正常输出图像显示。&lt;/p&gt;
+&lt;h3 id=&#34;_8&#34;&gt;蓝牙功能&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：查看系统蓝牙选项，尝试连接蓝牙设备。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：能正常发现并连接设备。&lt;/p&gt;
+&lt;h3 id=&#34;wi-fi_1&#34;&gt;Wi-Fi 功能&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：查看系统 Wi-Fi 选项，尝试连接 Wi-Fi。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：能正常连接 Wi-Fi。&lt;/p&gt;
+&lt;h2 id=&#34;_9&#34;&gt;安全性测试&lt;/h2&gt;
+&lt;h3 id=&#34;usb3020&#34;&gt;USB3.0/2.0 过流保护&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试方法&lt;/strong&gt;：使用 USB 转裸线，使用电子负载拉 2A 以上电流，观察是否发生保护；恢复低于 2A 电流，观察是否恢复供电。（具体电流值需看电路设计）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预期结果&lt;/strong&gt;：过流下发生过流保护，正常电流下能恢复供电。&lt;/p&gt;</description>
+      <link>https://sc.zhihu.blog/X86%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%A1%AC%E4%BB%B6%E6%B5%8B%E8%AF%95/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/X86%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%A1%AC%E4%BB%B6%E6%B5%8B%E8%AF%95/</guid>
+      
+    </item>
+    
+    <item>
+      <title>太阳高度角计算</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;_1&#34;&gt;太阳高度角计算&lt;/h1&gt;
+&lt;p&gt;表示太阳在天空中的位置，首先需要选定坐标系，通常用到的坐标系有两种，一种是赤道坐标系，一种是地平坐标系。&lt;/p&gt;
+&lt;p&gt;概念：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;纬度 &lt;span class=&#34;arithmatex&#34;&gt;\(\varphi\)&lt;/span&gt;：-90°~90°，北纬为正。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;_2&#34;&gt;赤道坐标系&lt;/h2&gt;
+&lt;p&gt;赤道坐标系以赤道面为基本平面，以 &lt;strong&gt;赤纬角&lt;/strong&gt; 和 &lt;strong&gt;时角&lt;/strong&gt; 两个量来定义太阳的位置。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/20220302221638.png&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;赤纬角 &lt;span class=&#34;arithmatex&#34;&gt;\(\delta\)&lt;/span&gt;&lt;/strong&gt; ：地日连线与赤道面的夹角&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;时角 &lt;span class=&#34;arithmatex&#34;&gt;\(\omega\)&lt;/span&gt;&lt;/strong&gt;：上午为负，下午为正，在数值上等于离正午时间（单位是 h）乘以 15°。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;赤纬角会随着公转轨道的位置，在北回归线到南回归线之间（-23.45°~23.45°）变化：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/20220302222024.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;赤纬角 &lt;span class=&#34;arithmatex&#34;&gt;\(\delta\)&lt;/span&gt;&lt;/strong&gt; 计算公式如下：&lt;/p&gt;
+&lt;div class=&#34;arithmatex&#34;&gt;\[
+\delta =23.45sin[360×(284+n)/365]
+\]&lt;/div&gt;
+&lt;p&gt;其中，n 是一年中的日期序号（1~365）。&lt;/p&gt;
+&lt;h2 id=&#34;_3&#34;&gt;地平坐标系&lt;/h2&gt;
+&lt;p&gt;地平坐标系以观察者所处的地平面为基本平面。在地平坐标系中，我们用 &lt;strong&gt;高度角&lt;/strong&gt; 和 &lt;strong&gt;方位角&lt;/strong&gt; 定义某个时刻太阳在天空中的位。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/20220302222855.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;注：读此图需要有几何想象力，即圆是在纸面，太阳是在纸上方。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高度角 &lt;span class=&#34;arithmatex&#34;&gt;\(\alpha_s\)&lt;/span&gt;&lt;/strong&gt; ：太阳光线到观察者间的连线，与这条线在地面上的投影之间的夹角。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;方位角 &lt;span class=&#34;arithmatex&#34;&gt;\(\gamma_s\)&lt;/span&gt;&lt;/strong&gt;：太阳光线到观察者间的连线在地面上的投影，与正南方向线之间的夹角。数值上正南方向为 0°，向西为正值，向东为负值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;高度角 &lt;span class=&#34;arithmatex&#34;&gt;\(\alpha_s\)&lt;/span&gt;&lt;/strong&gt; 的计算公式：&lt;/p&gt;
+&lt;div class=&#34;arithmatex&#34;&gt;\[
+sin \alpha_s =sin \varphi sin \delta+cos \varphi cos\delta cos \omega
+\]&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;方位角 &lt;span class=&#34;arithmatex&#34;&gt;\(\gamma_s\)&lt;/span&gt;&lt;/strong&gt; 的计算公式：&lt;/p&gt;
+&lt;div class=&#34;arithmatex&#34;&gt;\[
+sin \gamma_s=\frac{cos \delta sin \omega}{cos \alpha}
+\]&lt;/div&gt;
+&lt;div class=&#34;arithmatex&#34;&gt;\[
+cos \gamma_s=\frac{sin \alpha sin \varphi - sin \alpha}{cos \alpha cos \varphi}
+\]&lt;/div&gt;
+&lt;h2 id=&#34;_4&#34;&gt;法定时间与真太阳时&lt;/h2&gt;
+&lt;p&gt;法定时间是指行政的时间（比如北京时间），而真太阳时是以正午 12 点的时间。&lt;/p&gt;
+&lt;p&gt;举个例子，北京和乌鲁木齐，太阳高度角最高时都是真太阳时 12 点；而在法定时间下，乌鲁木齐的太阳高度角最高（即正午）是 14 点左右。&lt;/p&gt;
+&lt;h2 id=&#34;_5&#34;&gt;参考与致谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/65Pi-s68-NaP2Qi3Ia3wdA&#34;&gt;一文掌握光伏系统中涉及的地理知识&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jingweidu.bmcx.com/&#34;&gt;经纬度查询&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/asheshwor/solar-calculator&#34;&gt;Solar calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.360doc.com/content/18/0703/13/7941214_767348251.shtml&#34;&gt;浅谈光伏发电太阳能追踪系统的设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[AngleCalculations.pdf]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&#34;https://wiki-power.com/&#34;&gt;https://wiki-power.com/&lt;/a&gt;&lt;br /&gt;
+本篇文章受 &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/deed.zh&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt; 协议保护，转载请注明出处。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <link>https://sc.zhihu.blog/%E5%A4%AA%E9%98%B3%E9%AB%98%E5%BA%A6%E8%A7%92%E8%AE%A1%E7%AE%97/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/%E5%A4%AA%E9%98%B3%E9%AB%98%E5%BA%A6%E8%A7%92%E8%AE%A1%E7%AE%97/</guid>
+      
+    </item>
+    
+    <item>
+      <title>将应用封装为 Docker 容器</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;docker&#34;&gt;将应用封装为 Docker 容器&lt;/h1&gt;
+&lt;p&gt;将应用封装为 Docker 容器，可以更加方便地部署管理。下面是一个示例，演示了如何将一个 Python 应用封装为 Docker 容器，并使用 Docker Compose 的方式执行。&lt;/p&gt;
+&lt;h2 id=&#34;_1&#34;&gt;基本模板&lt;/h2&gt;
+&lt;p&gt;将应用 Docker 容器化，首先需要确保 Docker 已经安装。接着，需要在你的 Python 应用程序根目录下，创建这两个文件：&lt;code&gt;Dockerfile&lt;/code&gt; 和 &lt;code&gt;compose.yaml&lt;/code&gt;，它们大致会包含以下内容：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;span class=&#34;filename&#34;&gt;Dockerfile&lt;/span&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-0-1&#34; name=&#34;__codelineno-0-1&#34; href=&#34;#__codelineno-0-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 设置基础镜像为 Python 官方镜像，版本可自定义&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-2&#34; name=&#34;__codelineno-0-2&#34; href=&#34;#__codelineno-0-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;FROM&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;python:3.9&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-3&#34; name=&#34;__codelineno-0-3&#34; href=&#34;#__codelineno-0-3&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-4&#34; name=&#34;__codelineno-0-4&#34; href=&#34;#__codelineno-0-4&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 设置工作目录为 /app&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-5&#34; name=&#34;__codelineno-0-5&#34; href=&#34;#__codelineno-0-5&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;WORKDIR&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/app&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-6&#34; name=&#34;__codelineno-0-6&#34; href=&#34;#__codelineno-0-6&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-7&#34; name=&#34;__codelineno-0-7&#34; href=&#34;#__codelineno-0-7&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 复制 Python 应用程序的依赖文件&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-8&#34; name=&#34;__codelineno-0-8&#34; href=&#34;#__codelineno-0-8&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;COPY&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;requirements.txt&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;.
+&lt;a id=&#34;__codelineno-0-9&#34; name=&#34;__codelineno-0-9&#34; href=&#34;#__codelineno-0-9&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-10&#34; name=&#34;__codelineno-0-10&#34; href=&#34;#__codelineno-0-10&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 安装应用程序依赖&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-11&#34; name=&#34;__codelineno-0-11&#34; href=&#34;#__codelineno-0-11&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;pip&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;install&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;--no-cache-dir&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-r&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;requirements.txt
+&lt;a id=&#34;__codelineno-0-12&#34; name=&#34;__codelineno-0-12&#34; href=&#34;#__codelineno-0-12&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-13&#34; name=&#34;__codelineno-0-13&#34; href=&#34;#__codelineno-0-13&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 复制应用程序文件，从当前目录拷贝进容器内的目录&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-14&#34; name=&#34;__codelineno-0-14&#34; href=&#34;#__codelineno-0-14&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;COPY&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;.&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;.
+&lt;a id=&#34;__codelineno-0-15&#34; name=&#34;__codelineno-0-15&#34; href=&#34;#__codelineno-0-15&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-16&#34; name=&#34;__codelineno-0-16&#34; href=&#34;#__codelineno-0-16&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 设置默认执行命令&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-17&#34; name=&#34;__codelineno-0-17&#34; href=&#34;#__codelineno-0-17&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;python&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;app.py&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;span class=&#34;filename&#34;&gt;compose.yaml&lt;/span&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-1-1&#34; name=&#34;__codelineno-1-1&#34; href=&#34;#__codelineno-1-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;nt&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;3&amp;quot;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-1-2&#34; name=&#34;__codelineno-1-2&#34; href=&#34;#__codelineno-1-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;nt&#34;&gt;services&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-1-3&#34; name=&#34;__codelineno-1-3&#34; href=&#34;#__codelineno-1-3&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;app&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-1-4&#34; name=&#34;__codelineno-1-4&#34; href=&#34;#__codelineno-1-4&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;build&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l l-Scalar l-Scalar-Plain&#34;&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;在这个 &lt;code&gt;compose.yaml&lt;/code&gt; 文件中，我们定义了一个服务名为 &lt;code&gt;app&lt;/code&gt; 的服务。通过 &lt;code&gt;build: .&lt;/code&gt; 指令，它将使用当前目录下的 &lt;code&gt;Dockerfile&lt;/code&gt; 文件来构建镜像。在 &lt;code&gt;compose.yaml&lt;/code&gt; 的目录下执行 &lt;code&gt;docker compose up&lt;/code&gt;，即可构建并启动这个应用。&lt;/p&gt;
+&lt;h2 id=&#34;python-docker&#34;&gt;实例：将一个简单的 Python 应用封装为 Docker 容器&lt;/h2&gt;
+&lt;p&gt;以下是一个简单的 Hello World 应用示例，&lt;/p&gt;
+&lt;p&gt;这是一个示例的 Python 应用，用于在网页上打印 Hello World：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;span class=&#34;filename&#34;&gt;app.py&lt;/span&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-2-1&#34; name=&#34;__codelineno-2-1&#34; href=&#34;#__codelineno-2-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nn&#34;&gt;flask&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Flask&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-2&#34; name=&#34;__codelineno-2-2&#34; href=&#34;#__codelineno-2-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;app&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Flask&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;vm&#34;&gt;__name__&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-3&#34; name=&#34;__codelineno-2-3&#34; href=&#34;#__codelineno-2-3&#34;&gt;&lt;/a&gt;&lt;span class=&#34;nd&#34;&gt;@app&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;route&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;/&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-4&#34; name=&#34;__codelineno-2-4&#34; href=&#34;#__codelineno-2-4&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;hello&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-5&#34; name=&#34;__codelineno-2-5&#34; href=&#34;#__codelineno-2-5&#34;&gt;&lt;/a&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-6&#34; name=&#34;__codelineno-2-6&#34; href=&#34;#__codelineno-2-6&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;vm&#34;&gt;__name__&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-2-7&#34; name=&#34;__codelineno-2-7&#34; href=&#34;#__codelineno-2-7&#34;&gt;&lt;/a&gt;    &lt;span class=&#34;n&#34;&gt;app&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;host&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;0.0.0.0&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;port&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;8000&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;debug&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;如果我们按照普通的流程部署 Python 应用，而不采用容器化的方法，则需要先安装依赖，对于某些需要编译安装包，在 Windows 环境下还可能出错，可能会缺失必要的头文件。如果我们将其封装为 Docker，就可以忽略环境的差；即使 Host 主机不联网，也只需拷贝镜像即可完成部署。以下的步骤展示将其 Docker 容器化，并用 Docker Compose 部署。&lt;/p&gt;
+&lt;p&gt;首先，创建一个名为 &lt;code&gt;Dockerfile&lt;/code&gt; 的文件，在其中填写以下内容：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;span class=&#34;filename&#34;&gt;Dockerfile&lt;/span&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-3-1&#34; name=&#34;__codelineno-3-1&#34; href=&#34;#__codelineno-3-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 设置基础镜像为Python官方镜像&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-2&#34; name=&#34;__codelineno-3-2&#34; href=&#34;#__codelineno-3-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;FROM&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;python:3.9&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-3&#34; name=&#34;__codelineno-3-3&#34; href=&#34;#__codelineno-3-3&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-3-4&#34; name=&#34;__codelineno-3-4&#34; href=&#34;#__codelineno-3-4&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 复制应用程序文件&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-5&#34; name=&#34;__codelineno-3-5&#34; href=&#34;#__codelineno-3-5&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;COPY&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;.&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;/app
+&lt;a id=&#34;__codelineno-3-6&#34; name=&#34;__codelineno-3-6&#34; href=&#34;#__codelineno-3-6&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-3-7&#34; name=&#34;__codelineno-3-7&#34; href=&#34;#__codelineno-3-7&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 设置工作目录&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-8&#34; name=&#34;__codelineno-3-8&#34; href=&#34;#__codelineno-3-8&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;WORKDIR&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/app&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-9&#34; name=&#34;__codelineno-3-9&#34; href=&#34;#__codelineno-3-9&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-3-10&#34; name=&#34;__codelineno-3-10&#34; href=&#34;#__codelineno-3-10&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 安装依赖&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-11&#34; name=&#34;__codelineno-3-11&#34; href=&#34;#__codelineno-3-11&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;RUN&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;pip&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;install&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;flask
+&lt;a id=&#34;__codelineno-3-12&#34; name=&#34;__codelineno-3-12&#34; href=&#34;#__codelineno-3-12&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-3-13&#34; name=&#34;__codelineno-3-13&#34; href=&#34;#__codelineno-3-13&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 暴露 8000 端口用于访问&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-14&#34; name=&#34;__codelineno-3-14&#34; href=&#34;#__codelineno-3-14&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;EXPOSE&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;8000&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-15&#34; name=&#34;__codelineno-3-15&#34; href=&#34;#__codelineno-3-15&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-3-16&#34; name=&#34;__codelineno-3-16&#34; href=&#34;#__codelineno-3-16&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c&#34;&gt;# 启动应用程序&lt;/span&gt;
+&lt;a id=&#34;__codelineno-3-17&#34; name=&#34;__codelineno-3-17&#34; href=&#34;#__codelineno-3-17&#34;&gt;&lt;/a&gt;&lt;span class=&#34;k&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;python&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;./app.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;然后，在同一目录下创建一个名为&lt;code&gt;compose.yaml&lt;/code&gt;的文件，将以下内容复制到其中：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;span class=&#34;filename&#34;&gt;compose.yaml&lt;/span&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-4-1&#34; name=&#34;__codelineno-4-1&#34; href=&#34;#__codelineno-4-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;nt&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;3&amp;quot;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-4-2&#34; name=&#34;__codelineno-4-2&#34; href=&#34;#__codelineno-4-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;nt&#34;&gt;services&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-4-3&#34; name=&#34;__codelineno-4-3&#34; href=&#34;#__codelineno-4-3&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;helloworld-flask&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-4-4&#34; name=&#34;__codelineno-4-4&#34; href=&#34;#__codelineno-4-4&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;build&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l l-Scalar l-Scalar-Plain&#34;&gt;.&lt;/span&gt;
+&lt;a id=&#34;__codelineno-4-5&#34; name=&#34;__codelineno-4-5&#34; href=&#34;#__codelineno-4-5&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;ports&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;a id=&#34;__codelineno-4-6&#34; name=&#34;__codelineno-4-6&#34; href=&#34;#__codelineno-4-6&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;p p-Indicator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;8099:8000&amp;quot;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;# 端口 8099 可自定义&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;现在，你可以打开终端，进入包含 &lt;code&gt;Dockerfile&lt;/code&gt; 和 &lt;code&gt;compose.yaml&lt;/code&gt; 文件的目录，并运行以下命令来启动应用程序：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-5-1&#34; name=&#34;__codelineno-5-1&#34; href=&#34;#__codelineno-5-1&#34;&gt;&lt;/a&gt;docker&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;compose&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;up
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Docker 将会构建镜像并启动容器。访问 &lt;a href=&#34;http://localhost:8099&#34;&gt;http://localhost:8099&lt;/a&gt; 即可看到 Hello World 的字符。通过以上步骤，可以将一个简单的 Python 应用容器化，并使用 Docker Compose 进行部署。&lt;/p&gt;
+&lt;h2 id=&#34;_2&#34;&gt;参考与致谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/get-started/02_our_app/&#34;&gt;Containerize an application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.tencent.com/developer/article/1752513&#34;&gt;3 分钟将 Python 应用容器化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://sc.zhihu.blog/%E5%B0%86%E5%BA%94%E7%94%A8%E5%B0%81%E8%A3%85%E4%B8%BADocker%E5%AE%B9%E5%99%A8/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/%E5%B0%86%E5%BA%94%E7%94%A8%E5%B0%81%E8%A3%85%E4%B8%BADocker%E5%AE%B9%E5%99%A8/</guid>
+      
+    </item>
+    
+    <item>
+      <title>自制 CMSIS-DAP 🚧</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;cmsis-dap&#34;&gt;自制 CMSIS-DAP 🚧&lt;/h1&gt;
+&lt;p&gt;CMSIS DAP 是 ARM 官方推出的开源仿真器，支持所有的 Cortex - ARM 器件，支持 JTAG / SWD 接口，在最新的固件版本中，还支持单线 SWO 接口，可以直接在程序里把相应的数据通过 SWO 接口输出到调试窗口，起到类似串口调试的目的。DAP 主要有以下特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;完全开源，没有版权限制，所以相应的价格会很便宜&lt;/li&gt;
+&lt;li&gt;无须驱动，即插即用&lt;/li&gt;
+&lt;li&gt;在新版本的 DAP 里集成了串口，除了下载调试外还能充当 USB 转串口模块，一机两用&lt;/li&gt;
+&lt;li&gt;性能方面已经可以满足一般用户的需求&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;（未完成）&lt;/p&gt;
+&lt;p&gt;GitHub 仓库：&lt;a href=&#34;https://github.com/linyuxuanlin/DashDAP&#34;&gt;&lt;strong&gt;linyuxuanlin/DashDAP&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;_1&#34;&gt;参考与致谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/x893/CMSIS-DAP&#34;&gt;x893/CMSIS-DAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.keil.com/pack/doc/cmsis/DAP/html/index.html&#34;&gt;ARM 官网的 DAP 介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stmcu.org.cn/module/forum/thread-610968-1-2.html&#34;&gt;电子屌丝的的情怀：CMSIS DAP 仿真器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-21405148310.36.78726a3dta5ieC&amp;amp;id=550828063764&amp;amp;scene=taobao_shop&#34;&gt;CMSIS DAP 仿真器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/konosubakonoakua/Various_MCU_Debugger_DIY&#34;&gt;konosubakonoakua/Various_MCU_Debugger_DIY&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;code&gt;2.0 版本编辑中&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/20200613154907.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;项目在线预览：&lt;/p&gt;
+&lt;div class=&#34;altium-iframe-viewer&#34;&gt;
+  &lt;div
+    class=&#34;altium-ecad-viewer&#34;
+    data-project-src=&#34;https://github.com/linyuxuanlin/DashDAP/raw/master/Hardware/DashDAP.zip&#34;
+  &gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;_2&#34;&gt;背景&lt;/h2&gt;
+&lt;p&gt;CMSIS-DAP / DAP-Link 相比 J-Link / ST-Link 有以下优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完全开源，无法律风险&lt;/li&gt;
+&lt;li&gt;支持虚拟串口&lt;/li&gt;
+&lt;li&gt;免驱&lt;/li&gt;
+&lt;li&gt;DAPLink 是 CMSIS-DAP，支持 U 盘拖拽烧录 / 固件升级&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;_3&#34;&gt;硬件部分&lt;/h2&gt;
+&lt;h3 id=&#34;mcu&#34;&gt;MCU&lt;/h3&gt;
+&lt;h4 id=&#34;_4&#34;&gt;晶振&lt;/h4&gt;
+&lt;p&gt;选用村田 8MHz 无源晶振，型号为 CSTCE8M00G53-R0，封装为 3213，电容为 15pF. 为什么选用这个呢？是因为它体积相对小，并且把两个起振电容整合进去了，硬件设计上能省很多事。至于村田晶振型号的命名方式，可以参考下表：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/20200612143451.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;_5&#34;&gt;电源&lt;/h3&gt;
+&lt;h3 id=&#34;_6&#34;&gt;功能模块&lt;/h3&gt;
+&lt;h2 id=&#34;_7&#34;&gt;软件部分&lt;/h2&gt;
+&lt;h3 id=&#34;_8&#34;&gt;驱动&lt;/h3&gt;
+&lt;p&gt;在 Win10 / MacOS / Linux 不需要手动安装驱动；Win8 及更老的系统需要手动安装驱动。&lt;/p&gt;
+&lt;h3 id=&#34;msc&#34;&gt;拖拽式下载（MSC）&lt;/h3&gt;
+&lt;p&gt;讲编译生成的 &lt;code&gt;.hex&lt;/code&gt; 或 &lt;code&gt;.bin&lt;/code&gt; 文件直接拖进 DAPLink 的虚拟 U 盘，即可完成烧录。如果发生错误，错误的信息就会存放在 &lt;code&gt;FAIL.txt&lt;/code&gt; 中。&lt;/p&gt;
+&lt;h3 id=&#34;cdc&#34;&gt;虚拟串口（CDC）&lt;/h3&gt;
+&lt;p&gt;CDC 虚拟串口功能具备一般的串口功能，允许双向通信，允许发送中断命令来重置目标板。&lt;/p&gt;
+&lt;h2 id=&#34;_9&#34;&gt;参考与致谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/zhouml_msn/article/details/105298776&#34;&gt;JLink、STLink、DAPLink、CMSIS DAP 使用区别&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jixin.pro/bbs/topic/4187&#34;&gt;技新 · DAPLink 仿真器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wuxx/nanoDAP&#34;&gt;wuxx / nanoDAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LGG001/DAPLink-Brochure&#34;&gt;LGG001 / DAPLink-Brochure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&#34;https://wiki-power.com/&#34;&gt;https://wiki-power.com/&lt;/a&gt;&lt;br /&gt;
+本篇文章受 &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/deed.zh&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt; 协议保护，转载请注明出处。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <link>https://sc.zhihu.blog/%E8%87%AA%E5%88%B6CMSIS-DAP/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/%E8%87%AA%E5%88%B6CMSIS-DAP/</guid>
+      
+    </item>
+    
+    <item>
+      <title>麦轮小车</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;_1&#34;&gt;麦轮小车&lt;/h1&gt;
+&lt;p&gt;—— 如何造一辆可遥控的麦克纳姆轮小车。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/car2.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;嵌入式系统的课程要求我们设计小车底盘，于是我造了一辆麦克纳姆轮的小车。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;_2&#34;&gt;原理&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;麦克纳姆轮：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;麦轮驱动的特点是可以全方向平滑移动，适应狭小/不利转弯的地形；缺点是功率损耗大、贵、加工难、维护麻烦，寿命也相较短。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;转向原理：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/麦轮.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;_3&#34;&gt;元件清单&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;名称&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;参考链接&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;麦克纳姆轮小车底盘（带 TT 电机）&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://item.taobao.com/item.htm?spm=a1z09.2.0.0.38a72e8dxRlUyK&amp;amp;id=568708608416&amp;amp;_u=52dvbet6405e&#34;&gt;链接&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Arduino UNO&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;L293D 电机驱动&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;HC-06 蓝牙&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;9g 舵机&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;HC-SR04 超声波&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;11.1V 锂电池&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;_4&#34;&gt;代码实现&lt;/h2&gt;
+&lt;p&gt;小车主控用的是 Arduino UNO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;项目文件&lt;/strong&gt;：&lt;a href=&#34;https://github.com/linyuxuanlin/My-Arduino-projects/tree/master/麦轮小车&#34;&gt;My-Arduino-projects / 麦轮小车&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L293D 库文件：&lt;/strong&gt;&lt;a href=&#34;https://github.com/linyuxuanlin/My-Arduino-projects/raw/master/麦轮小车/AFMotor.rar&#34;&gt;AFMotor.rar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;代码：&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;a id=&#34;__codelineno-0-1&#34; name=&#34;__codelineno-0-1&#34; href=&#34;#__codelineno-0-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;c1&#34;&gt;//by YX Lin&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-2&#34; name=&#34;__codelineno-0-2&#34; href=&#34;#__codelineno-0-2&#34;&gt;&lt;/a&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;cpf&#34;&gt;&amp;lt;AFMotor.h&amp;gt;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt; //L293D 驱动库文件&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-3&#34; name=&#34;__codelineno-0-3&#34; href=&#34;#__codelineno-0-3&#34;&gt;&lt;/a&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;cpf&#34;&gt;&amp;lt;Servo.h&amp;gt;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//舵机库文件&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-4&#34; name=&#34;__codelineno-0-4&#34; href=&#34;#__codelineno-0-4&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-5&#34; name=&#34;__codelineno-0-5&#34; href=&#34;#__codelineno-0-5&#34;&gt;&lt;/a&gt;&lt;span class=&#34;cp&#34;&gt;#define SR04_Trig 11&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-6&#34; name=&#34;__codelineno-0-6&#34; href=&#34;#__codelineno-0-6&#34;&gt;&lt;/a&gt;&lt;span class=&#34;cp&#34;&gt;#define SR04_Echo 12&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-7&#34; name=&#34;__codelineno-0-7&#34; href=&#34;#__codelineno-0-7&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-8&#34; name=&#34;__codelineno-0-8&#34; href=&#34;#__codelineno-0-8&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;distance&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-9&#34; name=&#34;__codelineno-0-9&#34; href=&#34;#__codelineno-0-9&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;300&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-10&#34; name=&#34;__codelineno-0-10&#34; href=&#34;#__codelineno-0-10&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;micro_delay_time&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-11&#34; name=&#34;__codelineno-0-11&#34; href=&#34;#__codelineno-0-11&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-12&#34; name=&#34;__codelineno-0-12&#34; href=&#34;#__codelineno-0-12&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor_speed&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;200&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-13&#34; name=&#34;__codelineno-0-13&#34; href=&#34;#__codelineno-0-13&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-14&#34; name=&#34;__codelineno-0-14&#34; href=&#34;#__codelineno-0-14&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;AF_DCMotor&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-15&#34; name=&#34;__codelineno-0-15&#34; href=&#34;#__codelineno-0-15&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;AF_DCMotor&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-16&#34; name=&#34;__codelineno-0-16&#34; href=&#34;#__codelineno-0-16&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;AF_DCMotor&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-17&#34; name=&#34;__codelineno-0-17&#34; href=&#34;#__codelineno-0-17&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;AF_DCMotor&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-18&#34; name=&#34;__codelineno-0-18&#34; href=&#34;#__codelineno-0-18&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-19&#34; name=&#34;__codelineno-0-19&#34; href=&#34;#__codelineno-0-19&#34;&gt;&lt;/a&gt;&lt;span class=&#34;n&#34;&gt;Servo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;myservo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-20&#34; name=&#34;__codelineno-0-20&#34; href=&#34;#__codelineno-0-20&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-21&#34; name=&#34;__codelineno-0-21&#34; href=&#34;#__codelineno-0-21&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;setup&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-22&#34; name=&#34;__codelineno-0-22&#34; href=&#34;#__codelineno-0-22&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;begin&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;9600&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-23&#34; name=&#34;__codelineno-0-23&#34; href=&#34;#__codelineno-0-23&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;myservo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;attach&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-24&#34; name=&#34;__codelineno-0-24&#34; href=&#34;#__codelineno-0-24&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;setSpeed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor_speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-25&#34; name=&#34;__codelineno-0-25&#34; href=&#34;#__codelineno-0-25&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;setSpeed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor_speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-26&#34; name=&#34;__codelineno-0-26&#34; href=&#34;#__codelineno-0-26&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;setSpeed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor_speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-27&#34; name=&#34;__codelineno-0-27&#34; href=&#34;#__codelineno-0-27&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;setSpeed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor_speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-28&#34; name=&#34;__codelineno-0-28&#34; href=&#34;#__codelineno-0-28&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pinMode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Trig&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;OUTPUT&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-29&#34; name=&#34;__codelineno-0-29&#34; href=&#34;#__codelineno-0-29&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pinMode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Echo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;INPUT&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-30&#34; name=&#34;__codelineno-0-30&#34; href=&#34;#__codelineno-0-30&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//serve();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-31&#34; name=&#34;__codelineno-0-31&#34; href=&#34;#__codelineno-0-31&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-32&#34; name=&#34;__codelineno-0-32&#34; href=&#34;#__codelineno-0-32&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;loop&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-33&#34; name=&#34;__codelineno-0-33&#34; href=&#34;#__codelineno-0-33&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;available&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;())&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-34&#34; name=&#34;__codelineno-0-34&#34; href=&#34;#__codelineno-0-34&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-35&#34; name=&#34;__codelineno-0-35&#34; href=&#34;#__codelineno-0-35&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-36&#34; name=&#34;__codelineno-0-36&#34; href=&#34;#__codelineno-0-36&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;W&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;move_forward&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-37&#34; name=&#34;__codelineno-0-37&#34; href=&#34;#__codelineno-0-37&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;S&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;move_backward&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-38&#34; name=&#34;__codelineno-0-38&#34; href=&#34;#__codelineno-0-38&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;D&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;move_right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-39&#34; name=&#34;__codelineno-0-39&#34; href=&#34;#__codelineno-0-39&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;A&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;move_left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-40&#34; name=&#34;__codelineno-0-40&#34; href=&#34;#__codelineno-0-40&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;E&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;right_front&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-41&#34; name=&#34;__codelineno-0-41&#34; href=&#34;#__codelineno-0-41&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;Q&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;left_front&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-42&#34; name=&#34;__codelineno-0-42&#34; href=&#34;#__codelineno-0-42&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;C&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;rotate_right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-43&#34; name=&#34;__codelineno-0-43&#34; href=&#34;#__codelineno-0-43&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;Z&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;rotate_left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-44&#34; name=&#34;__codelineno-0-44&#34; href=&#34;#__codelineno-0-44&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;X&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-45&#34; name=&#34;__codelineno-0-45&#34; href=&#34;#__codelineno-0-45&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-46&#34; name=&#34;__codelineno-0-46&#34; href=&#34;#__codelineno-0-46&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;F&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;serve&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-47&#34; name=&#34;__codelineno-0-47&#34; href=&#34;#__codelineno-0-47&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;sc&#34;&gt;&amp;#39;V&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sr04&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//超声波测距&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-48&#34; name=&#34;__codelineno-0-48&#34; href=&#34;#__codelineno-0-48&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-49&#34; name=&#34;__codelineno-0-49&#34; href=&#34;#__codelineno-0-49&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;ok&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-50&#34; name=&#34;__codelineno-0-50&#34; href=&#34;#__codelineno-0-50&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-51&#34; name=&#34;__codelineno-0-51&#34; href=&#34;#__codelineno-0-51&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-52&#34; name=&#34;__codelineno-0-52&#34; href=&#34;#__codelineno-0-52&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-53&#34; name=&#34;__codelineno-0-53&#34; href=&#34;#__codelineno-0-53&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-54&#34; name=&#34;__codelineno-0-54&#34; href=&#34;#__codelineno-0-54&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;move_forward&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-55&#34; name=&#34;__codelineno-0-55&#34; href=&#34;#__codelineno-0-55&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-56&#34; name=&#34;__codelineno-0-56&#34; href=&#34;#__codelineno-0-56&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-57&#34; name=&#34;__codelineno-0-57&#34; href=&#34;#__codelineno-0-57&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-58&#34; name=&#34;__codelineno-0-58&#34; href=&#34;#__codelineno-0-58&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-59&#34; name=&#34;__codelineno-0-59&#34; href=&#34;#__codelineno-0-59&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-60&#34; name=&#34;__codelineno-0-60&#34; href=&#34;#__codelineno-0-60&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-61&#34; name=&#34;__codelineno-0-61&#34; href=&#34;#__codelineno-0-61&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-62&#34; name=&#34;__codelineno-0-62&#34; href=&#34;#__codelineno-0-62&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;move_backward&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-63&#34; name=&#34;__codelineno-0-63&#34; href=&#34;#__codelineno-0-63&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-64&#34; name=&#34;__codelineno-0-64&#34; href=&#34;#__codelineno-0-64&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-65&#34; name=&#34;__codelineno-0-65&#34; href=&#34;#__codelineno-0-65&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-66&#34; name=&#34;__codelineno-0-66&#34; href=&#34;#__codelineno-0-66&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-67&#34; name=&#34;__codelineno-0-67&#34; href=&#34;#__codelineno-0-67&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-68&#34; name=&#34;__codelineno-0-68&#34; href=&#34;#__codelineno-0-68&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-69&#34; name=&#34;__codelineno-0-69&#34; href=&#34;#__codelineno-0-69&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-70&#34; name=&#34;__codelineno-0-70&#34; href=&#34;#__codelineno-0-70&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-71&#34; name=&#34;__codelineno-0-71&#34; href=&#34;#__codelineno-0-71&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;move_right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-72&#34; name=&#34;__codelineno-0-72&#34; href=&#34;#__codelineno-0-72&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-73&#34; name=&#34;__codelineno-0-73&#34; href=&#34;#__codelineno-0-73&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-74&#34; name=&#34;__codelineno-0-74&#34; href=&#34;#__codelineno-0-74&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-75&#34; name=&#34;__codelineno-0-75&#34; href=&#34;#__codelineno-0-75&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-76&#34; name=&#34;__codelineno-0-76&#34; href=&#34;#__codelineno-0-76&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-77&#34; name=&#34;__codelineno-0-77&#34; href=&#34;#__codelineno-0-77&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-78&#34; name=&#34;__codelineno-0-78&#34; href=&#34;#__codelineno-0-78&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-79&#34; name=&#34;__codelineno-0-79&#34; href=&#34;#__codelineno-0-79&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;move_left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-80&#34; name=&#34;__codelineno-0-80&#34; href=&#34;#__codelineno-0-80&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-81&#34; name=&#34;__codelineno-0-81&#34; href=&#34;#__codelineno-0-81&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-82&#34; name=&#34;__codelineno-0-82&#34; href=&#34;#__codelineno-0-82&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-83&#34; name=&#34;__codelineno-0-83&#34; href=&#34;#__codelineno-0-83&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-84&#34; name=&#34;__codelineno-0-84&#34; href=&#34;#__codelineno-0-84&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-85&#34; name=&#34;__codelineno-0-85&#34; href=&#34;#__codelineno-0-85&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-86&#34; name=&#34;__codelineno-0-86&#34; href=&#34;#__codelineno-0-86&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-87&#34; name=&#34;__codelineno-0-87&#34; href=&#34;#__codelineno-0-87&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;right_front&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-88&#34; name=&#34;__codelineno-0-88&#34; href=&#34;#__codelineno-0-88&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-89&#34; name=&#34;__codelineno-0-89&#34; href=&#34;#__codelineno-0-89&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-90&#34; name=&#34;__codelineno-0-90&#34; href=&#34;#__codelineno-0-90&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-91&#34; name=&#34;__codelineno-0-91&#34; href=&#34;#__codelineno-0-91&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-92&#34; name=&#34;__codelineno-0-92&#34; href=&#34;#__codelineno-0-92&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-93&#34; name=&#34;__codelineno-0-93&#34; href=&#34;#__codelineno-0-93&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-94&#34; name=&#34;__codelineno-0-94&#34; href=&#34;#__codelineno-0-94&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-95&#34; name=&#34;__codelineno-0-95&#34; href=&#34;#__codelineno-0-95&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;left_front&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-96&#34; name=&#34;__codelineno-0-96&#34; href=&#34;#__codelineno-0-96&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-97&#34; name=&#34;__codelineno-0-97&#34; href=&#34;#__codelineno-0-97&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-98&#34; name=&#34;__codelineno-0-98&#34; href=&#34;#__codelineno-0-98&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-99&#34; name=&#34;__codelineno-0-99&#34; href=&#34;#__codelineno-0-99&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-100&#34; name=&#34;__codelineno-0-100&#34; href=&#34;#__codelineno-0-100&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-101&#34; name=&#34;__codelineno-0-101&#34; href=&#34;#__codelineno-0-101&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-102&#34; name=&#34;__codelineno-0-102&#34; href=&#34;#__codelineno-0-102&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-103&#34; name=&#34;__codelineno-0-103&#34; href=&#34;#__codelineno-0-103&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;rotate_right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-104&#34; name=&#34;__codelineno-0-104&#34; href=&#34;#__codelineno-0-104&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-105&#34; name=&#34;__codelineno-0-105&#34; href=&#34;#__codelineno-0-105&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-106&#34; name=&#34;__codelineno-0-106&#34; href=&#34;#__codelineno-0-106&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-107&#34; name=&#34;__codelineno-0-107&#34; href=&#34;#__codelineno-0-107&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-108&#34; name=&#34;__codelineno-0-108&#34; href=&#34;#__codelineno-0-108&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;micro_delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-109&#34; name=&#34;__codelineno-0-109&#34; href=&#34;#__codelineno-0-109&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-110&#34; name=&#34;__codelineno-0-110&#34; href=&#34;#__codelineno-0-110&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-111&#34; name=&#34;__codelineno-0-111&#34; href=&#34;#__codelineno-0-111&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;rotate_left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-112&#34; name=&#34;__codelineno-0-112&#34; href=&#34;#__codelineno-0-112&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-113&#34; name=&#34;__codelineno-0-113&#34; href=&#34;#__codelineno-0-113&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-114&#34; name=&#34;__codelineno-0-114&#34; href=&#34;#__codelineno-0-114&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FORWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-115&#34; name=&#34;__codelineno-0-115&#34; href=&#34;#__codelineno-0-115&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BACKWARD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-116&#34; name=&#34;__codelineno-0-116&#34; href=&#34;#__codelineno-0-116&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;micro_delay_time&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-117&#34; name=&#34;__codelineno-0-117&#34; href=&#34;#__codelineno-0-117&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-118&#34; name=&#34;__codelineno-0-118&#34; href=&#34;#__codelineno-0-118&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-119&#34; name=&#34;__codelineno-0-119&#34; href=&#34;#__codelineno-0-119&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;off&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-120&#34; name=&#34;__codelineno-0-120&#34; href=&#34;#__codelineno-0-120&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-121&#34; name=&#34;__codelineno-0-121&#34; href=&#34;#__codelineno-0-121&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-122&#34; name=&#34;__codelineno-0-122&#34; href=&#34;#__codelineno-0-122&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-123&#34; name=&#34;__codelineno-0-123&#34; href=&#34;#__codelineno-0-123&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;motor4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;RELEASE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-124&#34; name=&#34;__codelineno-0-124&#34; href=&#34;#__codelineno-0-124&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-125&#34; name=&#34;__codelineno-0-125&#34; href=&#34;#__codelineno-0-125&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;serve&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-126&#34; name=&#34;__codelineno-0-126&#34; href=&#34;#__codelineno-0-126&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;180&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// goes from 0 degrees to 180 degrees&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-127&#34; name=&#34;__codelineno-0-127&#34; href=&#34;#__codelineno-0-127&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// in steps of 1 degree&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-128&#34; name=&#34;__codelineno-0-128&#34; href=&#34;#__codelineno-0-128&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;myservo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;write&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;              &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// tell servo to go to position in variable &amp;#39;pos&amp;#39;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-129&#34; name=&#34;__codelineno-0-129&#34; href=&#34;#__codelineno-0-129&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;15&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;                       &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// waits 15ms for the servo to reach the position&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-130&#34; name=&#34;__codelineno-0-130&#34; href=&#34;#__codelineno-0-130&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-131&#34; name=&#34;__codelineno-0-131&#34; href=&#34;#__codelineno-0-131&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;180&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// goes from 180 degrees to 0 degrees&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-132&#34; name=&#34;__codelineno-0-132&#34; href=&#34;#__codelineno-0-132&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;myservo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;write&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pos&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;              &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// tell servo to go to position in variable &amp;#39;pos&amp;#39;&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-133&#34; name=&#34;__codelineno-0-133&#34; href=&#34;#__codelineno-0-133&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;15&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;                       &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// waits 15ms for the servo to reach the position&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-134&#34; name=&#34;__codelineno-0-134&#34; href=&#34;#__codelineno-0-134&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-135&#34; name=&#34;__codelineno-0-135&#34; href=&#34;#__codelineno-0-135&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-136&#34; name=&#34;__codelineno-0-136&#34; href=&#34;#__codelineno-0-136&#34;&gt;&lt;/a&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;sr04&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-137&#34; name=&#34;__codelineno-0-137&#34; href=&#34;#__codelineno-0-137&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;digitalWrite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Trig&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;LOW&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//给 Trig 发送一个低电平&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-138&#34; name=&#34;__codelineno-0-138&#34; href=&#34;#__codelineno-0-138&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delayMicroseconds&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//等待 2 微妙&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-139&#34; name=&#34;__codelineno-0-139&#34; href=&#34;#__codelineno-0-139&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;digitalWrite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Trig&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;HIGH&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//给 Trig 发送一个高电平&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-140&#34; name=&#34;__codelineno-0-140&#34; href=&#34;#__codelineno-0-140&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delayMicroseconds&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//等待 10 微妙&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-141&#34; name=&#34;__codelineno-0-141&#34; href=&#34;#__codelineno-0-141&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;digitalWrite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Trig&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;LOW&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//给 Trig 发送一个低电平&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-142&#34; name=&#34;__codelineno-0-142&#34; href=&#34;#__codelineno-0-142&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;distance&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;((&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pulseIn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SR04_Echo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;HIGH&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;17&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//把回波时间换算成毫米，并减去距离差值&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-143&#34; name=&#34;__codelineno-0-143&#34; href=&#34;#__codelineno-0-143&#34;&gt;&lt;/a&gt;
+&lt;a id=&#34;__codelineno-0-144&#34; name=&#34;__codelineno-0-144&#34; href=&#34;#__codelineno-0-144&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;distance&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;9999&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;distance&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-145&#34; name=&#34;__codelineno-0-145&#34; href=&#34;#__codelineno-0-145&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;测距：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-146&#34; name=&#34;__codelineno-0-146&#34; href=&#34;#__codelineno-0-146&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;distance&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-147&#34; name=&#34;__codelineno-0-147&#34; href=&#34;#__codelineno-0-147&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-148&#34; name=&#34;__codelineno-0-148&#34; href=&#34;#__codelineno-0-148&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Serial&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;距离过大&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-149&#34; name=&#34;__codelineno-0-149&#34; href=&#34;#__codelineno-0-149&#34;&gt;&lt;/a&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;a id=&#34;__codelineno-0-150&#34; name=&#34;__codelineno-0-150&#34; href=&#34;#__codelineno-0-150&#34;&gt;&lt;/a&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;蓝牙遥控：&lt;/strong&gt;下载 &lt;a href=&#34;https://github.com/linyuxuanlin/My-Arduino-projects/raw/master/麦轮小车/Arduino%20bluetooth%20controller.apk&#34;&gt;Arduino bluetooth controller&lt;/a&gt; 这个 App，按代码设置相应的键位，就可以遥控了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/蓝牙.png&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;faq&#34;&gt;FAQ&lt;/h2&gt;
+&lt;p&gt;Q：项目后期有跟进吗？ A：有，我打算寒假把代码移植到 STM32 上面，并实现用 PS2 手柄遥控。&lt;/p&gt;
+&lt;h2 id=&#34;_5&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;小车总体能实现基本功能，但蓝牙的遥控有距离限制，也无法做得相对平滑。靠以后的算法慢慢优化了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://media.wiki-power.com/img/car1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;_6&#34;&gt;参考与致谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/20282234&#34;&gt;麦克纳姆轮浅谈&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&#34;https://wiki-power.com/&#34;&gt;https://wiki-power.com/&lt;/a&gt;&lt;br /&gt;
+本篇文章受 &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/deed.zh&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt; 协议保护，转载请注明出处。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <link>https://sc.zhihu.blog/%E9%BA%A6%E8%BD%AE%E5%B0%8F%E8%BD%A6/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 21 Jul 2026 05:54:15 +0000</pubDate>
+      <source url="https://sc.zhihu.blog/feed_rss_created.xml">work wiki</source>
+      
+      <guid isPermaLink="true">https://sc.zhihu.blog/%E9%BA%A6%E8%BD%AE%E5%B0%8F%E8%BD%A6/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
