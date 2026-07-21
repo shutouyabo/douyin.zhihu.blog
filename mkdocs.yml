@@ -1,8 +1,8 @@
-﻿site_name: work wiki
+﻿site_name: 抖音视频
 site_description: 学习。
-site_url: https://sc.zhihu.blog
-repo_url: https://github.com/shutouyabo/cs-nj-wiki
-#remote_name: shutouyabo/work_wiki
+site_url: https://douyin.zhihu.blog
+repo_url: https://github.com/shutouyabo/douyin.zhihu.blog
+remote_name: shutouyabo/douyin.zhihu.blog
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
