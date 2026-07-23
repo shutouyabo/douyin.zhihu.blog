@@ -10,7 +10,7 @@ nav:
       - 小璐歌:
           - lishi/xiaoluge/index.md
           - 10min:
-              - lishi/xiaoluge/10min/10分钟了解西汉.md
+              - xiaoluge/10min/10分钟了解西汉.md
 
   - 2:
       - 嵌入式开发:
