@@ -11,6 +11,10 @@ nav:
           - lishi/xiaoluge/index.md
           - 10分钟了解一个朝代:
               - lishi/xiaoluge/10分钟了解一个朝代/10分钟了解西汉.md
+      - :
+          - lishi/weitong/index.md
+          - 西安老巷子的历史:
+              - lishi/weitong/西安老巷子的历史/星火路.md              
 
   - 2:
       - 嵌入式开发:
