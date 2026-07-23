@@ -4,7 +4,7 @@ hide:
   - navigation
   - toc
 ---
-# 杂志大全
+# 抖音视频收藏
 
 <!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~-->
 
@@ -22,9 +22,9 @@ hide:
 [![badge](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge){ loading=lazy }](https://space.bilibili.com/349536948)
 -->
 
-> 博览万书，融会贯通。
+> 博览视频，融会贯通。
 
-Hi there~ 欢迎来到我的杂志大全知识库。
+Hi there~ 欢迎来到我的抖音视频知识库。
 
 [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square){ loading=lazy }](https://wiki-power.com/)
 [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square){ loading=lazy }](https://nav.wiki-power.com/)
@@ -35,6 +35,4 @@ Hi there~ 欢迎来到我的杂志大全知识库。
 为了避免遗忘、便于分享，我在这里收录知识。
 请随意浏览～
 
-[硬件 &amp; 半导体](https://wiki-power.com/信号完整性-基础概念){ .md-button }
-[嵌入式 &amp; 软件开发](https://wiki-power.com/HAL库开发笔记-串口通信){ .md-button }
-[生活 &amp; 折腾](https://wiki-power.com/搭建属于自己的HomeLab){ .md-button }
+[历史播主](https://douyin.zhihu.blog/lishi/){ .md-button }
